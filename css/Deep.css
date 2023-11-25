@@ -1,0 +1,87 @@
+.i {padding-left: 599px;}
+
+.active {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #F5F3ED;}
+
+.active2 {
+  float: left;}
+
+li > a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;}
+
+a:hover {color: white; background-color:#165474}
+a:link {text-decoration: none;}
+
+body {font-family:Georgia; font-size:25px; color:#FFFFFF;}
+
+strong {padding-left: 400px;}
+
+.active3 {padding-left: 15px;}
+
+.active4 {overflow: hidden; font-size: 30p; color: #B0E0E6; border: 2px solid black;
+  width: 290px; height: 50px; text-align:center;
+border-radius: 12px; padding: 5px; margin: 10px; background-image: url(w.webp);}
+
+.button {
+  overflow: hidden; font-size: 30p; color: #B0E0E6; border: 2px solid black;
+  width: 200px; height: 50px; text-align:center; background-color: #165474;
+border-radius: 12px; padding: 5px; margin: 20px 105px;}
+
+.nature {background-image: url("calm.jpg"); background-size: cover; background-repeat: no-repeat;
+ background-attachment: fixed;}
+
+.connect {background-image: url("h.webp"); border:2px solid #F5F3ED; border-radius: 5px; font-size:15px;
+  color: black; padding-left: 120px; margin: 10px; width: 300px; height: 500px;}
+
+label {padding-bottom: 2px; margin: 2px}
+
+input {
+ border:2px solid black ; border-radius:5px; background-color: #F5F3ED;
+ display: block; padding: 5px; margin: 5px; width: 200px}
+
+.button2 {display: inline-block; background-color: #165474;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none
+  margin: 4px 2px;
+  cursor: pointer;}
+
+textarea {width: 220px;
+  height: 150px;
+  padding:10px;
+  margin-top: 4px;
+  box-sizing: border-box;
+  border: 2px solid black;
+  border-radius: 4px;
+  background-color: #F5F3ED;
+  font-size: 11px;
+  resize: none;}
+
+.c {font-size:25px; padding-left: 40px;}
+
+
+div.blog {
+  width: 20%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin:20px 0px 25px 15px;
+  padding:5px;
+
+}
+
+div.subject {
+  text-align: center;
+  padding: 10px 20px;
+}
+
+ footer
+ { background-color: black; padding:15px; font-size:20px; text-align: center; }
